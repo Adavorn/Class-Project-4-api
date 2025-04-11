@@ -10,7 +10,7 @@ const sqlite3 = require("sqlite3").verbose();
 
 //-- windows:
 //const db_name = "src\\data\\testdb1.db";
-const db_name = "src\\data\\dashboarddb1.db";
+const db_name = "src\\data\\demodb1.db";
 
 const login = function (username, password, logincb) {
     const _funnction_name = "login";
